@@ -135,7 +135,7 @@ are not universal guarantees for every computer.
 - **p99:** 99% of requests were faster; useful for spotting slower requests.
 - **TTL:** Time to live; how long a key remains before expiration.
 
-## Portfolio description
+## description
 
 Built a Redis-inspired in-memory key-value server in C++17 from scratch,
 implementing non-blocking networking, a poll-based event loop, custom binary
